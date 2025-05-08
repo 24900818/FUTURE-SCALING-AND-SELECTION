@@ -148,7 +148,7 @@ The feature selection techniques used are:
 
         tips.time.unique()
 
-
+![image](https://github.com/user-attachments/assets/27e45e3e-daf8-4d28-a364-f5f6d674ea83)
 
         contingency_table=pd.crosstab(tips['sex'],tips['time'])
         print(contingency_table)
